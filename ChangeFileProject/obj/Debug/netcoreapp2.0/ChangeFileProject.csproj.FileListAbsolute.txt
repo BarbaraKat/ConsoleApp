@@ -9,3 +9,14 @@ C:\Users\j.gabele.4614\source\repos\ChangeFileProject\ChangeFileProject\obj\Debu
 C:\Users\j.gabele.4614\source\repos\ChangeFileProject\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.AssemblyInfo.cs
 C:\Users\j.gabele.4614\source\repos\ChangeFileProject\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.dll
 C:\Users\j.gabele.4614\source\repos\ChangeFileProject\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.pdb
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.csprojResolveAssemblyReference.cache
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.csproj.CoreCompileInputs.cache
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.AssemblyInfoInputs.cache
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.AssemblyInfo.cs
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.dll
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\obj\Debug\netcoreapp2.0\ChangeFileProject.pdb
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\bin\Debug\netcoreapp2.0\ChangeFileProject.deps.json
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\bin\Debug\netcoreapp2.0\ChangeFileProject.runtimeconfig.json
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\bin\Debug\netcoreapp2.0\ChangeFileProject.runtimeconfig.dev.json
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\bin\Debug\netcoreapp2.0\ChangeFileProject.dll
+C:\Users\j.gabele.4614\Desktop\Neuer Ordner\Neuer Ordner\ConsoleApp\ChangeFileProject\bin\Debug\netcoreapp2.0\ChangeFileProject.pdb
