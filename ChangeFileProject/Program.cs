@@ -85,7 +85,7 @@ namespace ChangeFileProject
                 Console.WriteLine("2 Flensburg");
                 Console.WriteLine("3 Frankfurt an der Oder");
                 Console.WriteLine("4 Friedlingen am Fluß");
-                Console.ReadLine();
+                option = Console.ReadLine();
             }
 
             if (option == "3")
@@ -103,7 +103,7 @@ namespace ChangeFileProject
                 Console.WriteLine("2 Herat");
                 Console.WriteLine("3 Konstantinopel");
                 Console.WriteLine("4 Metropolis");
-                Console.ReadLine();
+                option = Console.ReadLine();
             }
              if(option == "3")
             {
@@ -118,6 +118,7 @@ namespace ChangeFileProject
             {
                 Console.WriteLine("Das war die letzte Frage. Danke, dass Sie an diesem Quiz teilgenommen haben.");
                 Console.WriteLine("Ergebniss: " + _result);
+                option = Console.ReadLine();
             }
 
 
